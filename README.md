@@ -18,9 +18,9 @@ Esta aplicación proporciona una interfaz interactiva para el monitoreo y análi
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/usuario/dashboard-criptomonedas.git
+git clone https://github.com/EstebanCardenas/CriptoEnVivo.git
 
-cd dashboard-criptomonedas
+cd CriptoEnVivo
 ```
 
 2. Instalar dependencias:

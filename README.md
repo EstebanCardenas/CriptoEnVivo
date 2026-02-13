@@ -1,5 +1,7 @@
 # Dashboard de visualización de criptomonedas
 
+**Link de la aplicación:** https://estebancardenas.github.io/CriptoEnVivo/
+
 Esta aplicación proporciona una interfaz interactiva para el monitoreo y análisis de criptomonedas en tiempo real. Permite a los usuarios visualizar tendencias de mercado, comparar el rendimiento de diferentes activos y acceder a datos históricos mediante gráficos dinámicos.
 
 ### Características principales
